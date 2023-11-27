@@ -1,0 +1,10 @@
+sbtPlugin
+integrationTests_3
+integrationTests_2_13
+integrationTestDomainClasses_3
+integrationTestDomainClasses_2_13
+integrationTestSchemas_2_13
+integrationTestSchemas_3
+codegen_3
+codegen_2_13
+codegen_2_12
